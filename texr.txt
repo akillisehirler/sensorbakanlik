@@ -1,3 +1,4 @@
+AŞDB Sensör Verileri
 UV Yoğunluğu  : 178
 UV Endeksi    : 7
 CO Konsant    : 2
