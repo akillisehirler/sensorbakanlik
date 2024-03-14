@@ -1,5 +1,4 @@
-UV Yoğunluğu  : 178
-UV Endeksi    : 7
-Veriler Yenilendi
-DENEME 2
-LALALALAL
+CO Konsant    : 2
+Atm Basınç    : 918 bar
+Rüzgar Hızı   : 8 km/h
+Rüzgar Yönü   : Güneybatı
