@@ -1,7 +1,3 @@
 AŞDB Sensör Verileri
 UV Yoğunluğu  : 178
 UV Endeksi    : 7
-CO Konsant    : 2
-Atm Basınç    : 918 bar
-Rüzgar Hızı   : 8 km/h
-Rüzgar Yönü   : Güneybatı
