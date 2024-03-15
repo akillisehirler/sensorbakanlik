@@ -1,4 +1,5 @@
-15/03/2024
+SA MURATHAN
+veri yenile
 CO Konsant    : 4
 Atm Basınç    : 1.023 bar
 Rüzgar Hızı   : 4 km/h
