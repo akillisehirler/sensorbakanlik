@@ -1,5 +1,5 @@
 15/03/2024
-CO Konsant    : 4
-Atm Basınç    : 1.023 bar
-Rüzgar Hızı   : 4 km/h
-Rüzgar Yönü   : Doğu
+CO Konsant    : 5
+Atm Basınç    : 826 bar
+Rüzgar Hızı   : 8 km/h
+Rüzgar Yönü   : Güneybatı
